@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - salt
+  - water1
+  - hmd
+  - Fire
+  - CopperSulphate
+  - NHSO4
+  - SodiumChloride
+  - Empty
+  - CopperSoluble
+  - LeadInsoluble
+  - AmmeniaSoluble
+  - FxTemporaire
+  - projectile
+  - Labels
+  - PowderCopper
+  - PowderAmmonium
+  - PowderLead
+  - LeadGR
+  - CopperGR
+  - CopperSpoon
+  - LeadSpoon
+  - AmmoniaSpoon
+  - hands
+  - goggle
+  - AmmoniaWater
+  - CopperWater
+  - LeadWater
+  - CopperUsed
+  - LeadUsed
+  - AmmoniaUsed
+  - AmmoniaGR
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Labels
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

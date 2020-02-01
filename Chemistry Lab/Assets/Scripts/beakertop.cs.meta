@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 931114507577ecf4aa8072475c39a62a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objToDestroyPb: {instanceID: 0}
+  - objToDestroyCu: {instanceID: 0}
+  - objToDestroyNH4: {instanceID: 0}
+  - objToSpawn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
